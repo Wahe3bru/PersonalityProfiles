@@ -7,6 +7,6 @@ Objectives:
 - learn NLP basics
 - understand classification models
 - metrics of classifyiers
-- git good at regex (learn re)
+- [x] git good at regex (learn re)
 - learn sklearn.pipeline
 - cross validation and accompanying components
