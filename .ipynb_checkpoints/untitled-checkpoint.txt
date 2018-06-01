@@ -1,0 +1,51 @@
+ISTJwords
+'team',
+ 'work',
+ 'group',
+ 'people',
+ 'new',
+ 'experience',
+ 'working',
+ 'best',
+ 'decisions',
+ 'everyone',
+ 
+ 
+ UNIQUE WORDS
+ INTP
+ across',
+ 'arrived',
+ 'change',
+ 'differing',
+ 'enough',
+ 'labs',
+ 'nice',
+ 'personal',
+ 'responsibility',
+ 'stories',
+ 'tricky',
+ 'without
+ 
+ ISTJ
+ 'co-ordinator',
+ 'delivery',
+ 'dependent',
+ 'essentially',
+ 'gaming',
+ 'impact',
+ 'lounge',
+ 'necessary.',
+ 'opportunities',
+ 'provide'
+ 
+ ISFJ
+ 'accurate',
+ 'earlier',
+ 'infp',
+ 'isfj.',
+ 'letter',
+ 'massive',
+ 'myers-briggs',
+ 'night',
+ 'personally.',
+ 'representation
